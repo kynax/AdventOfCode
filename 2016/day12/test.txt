@@ -1,0 +1,7 @@
+inc a
+inc a
+inc b
+inc b
+inc b
+dec b
+dec b
